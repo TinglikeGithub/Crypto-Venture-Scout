@@ -1,2 +1,3 @@
 # Crypto-Venture-Scout
-An platform for sorting and recommending projects to crypto VCs.
+A crypto projects aggregation and recommendation platform for crypto VCs
+
