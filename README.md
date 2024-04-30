@@ -1,7 +1,9 @@
-# Crypto-Venture-Scout
+## Crypto-Venture-Scout
 A crypto projects aggregation and recommendation platform for crypto VCs
-# How to run
+
+## How to run
 We have hosted our application on GCP at the following link: http://35.235.93.49/
+
 ## Dependencies:
 1. Python 3.10
 2. NumPy
